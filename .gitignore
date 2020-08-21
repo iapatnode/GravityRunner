@@ -1,0 +1,9 @@
+#VS Code Directory
+.vs/Gravity Runner
+
+#VS Solution File
+Gravity Runner.sln 
+Assembly-CSharp.csproj
+
+#Unity Files
+obj
